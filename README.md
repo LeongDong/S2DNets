@@ -6,7 +6,7 @@ Paper  |  [Project](https://github.com/LeongDong/S2DNets/)
 
 The framework of S2DNets:
 <p align="center">
-  <img src="assets/framework.png">
+  <img src="assets/Framework.jpg">
 </p>
 
 ---
