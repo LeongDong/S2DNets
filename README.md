@@ -18,16 +18,12 @@ Visual experimental results:
 ⭐: If S2DNets is helpful for you, please help star this repo. Thanks!:hugs:
 
 ### Requirements
-- PIL
-- numpy
-- pytorch
-- re
-- matplotlib
-- pandas
-- random
-- time
-- python
-- albumentations
+- Pillow 9.4.0
+- numpy 1.19.2
+- torch 1.13.1 
+- matplotlib 3.4.3
+- pandas 1.3.5
+
 ## <a name="train"></a>:stars:Train
 <a name="gen_file_list"></a>
 1. Generate file list of training set. For HCP dataset, a file list look like:
