@@ -1,5 +1,6 @@
 ## Structure and Smoothness Constrained Dual Networks for MR Bias Field Correction
-Paper  |  [Project](https://github.com/LeongDong/S2DNets/)
+[Paper](https://arxiv.org/pdf/2507.01326)  |  [Project](https://github.com/LeongDong/S2DNets/)
+
 [Dong Liang](https://github.com/LeongDong/)<sup>1</sup>, [Xingyu Qiu]<sup>1</sup>, [Yuzhen Li]<sup>1</sup>, [Wei Wang]<sup>1</sup>, [Kuanquan Wang]<sup>1</sup>, [Suyu Dong]<sup>2</sup>, [Gongning Luo]<sup>1, \*</sup>
 
 <sup>1</sup>Harbin Institute of Technology, Harbin<br><sup>2</sup>King Abdullah University of Science and Technology, Saudi Arabia
